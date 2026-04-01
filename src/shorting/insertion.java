@@ -1,4 +1,7 @@
 package shorting;
 
-public class insertion {
+public class insertion{
+
+
+    
 }
